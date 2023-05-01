@@ -1,0 +1,45 @@
+,Data set name,Number of images,Number of unique patients,Number of studies included,Image format,View position,Labels (Image feature labels),Diseases included,Patient age,Patient gender,Comments
+0,Belarus,,,,,,,,,,
+1,BIMCV-COVID19+,5530,1311,2429,PNG,"frontal,lateral",NA,"Covid-19, increased density, pneumonia, unchanged, consolidation, infiltrates, interstitial pattern, alveolar pattern, normal, ground glass pattern, cardiomegaly, pleuraæ effusion, laminar atelectasis, costophrenic angle blunting, suboptimal study, viral pneunomia, endotracheal tube, aortic elongation, nodule, central venous catheter*",63.11 (± 16.75),602 (45.92%) female,"*Diseases identified in 50 or more cases,This is data from 1st iteration. There are 3 now but there are nothing stated about 2 and 3 yet. "
+2,BRAX,40967,19351,24959,DICOM,"Frontal,lateral",14,"Enlarged Cardiomediastinum, Cardiomegaly, Lung Lesion, Lung Opacity, Edema, Consolidation, Pneumonia, Atelectasis, Pneumothorax, Pleural Effusion, Pleural Other, Fracture, Support Devices",NA,NA,Age/Gender is not stated can be accessed by full data access
+3,CANDID-PTX,19237,NA,NA,DICOM,Frontal (incl. bedside),4,"Pneumothorax, no pneumothorax, unsure positive case, chest tube, acute rib fracture","60.1 (± 20.1), over 16 years","10278 male, 8929 female, 30 NA",
+4,Chest x-ray disease images,572,NA,NA,"jpg, jpeg",NA,NA,NA,NA,NA,
+5,Chest X-Rays - Covid19 Pakistan,527,75,NA,JPEG,Frontal,2,"Covid-19, non-covid-19",NA,NA,
+6,Chest X-Rays Dataset,910,NA,NA,"jpg, jpeg, png, gif",NA,5,"Atelectasis, Infiltration, Effusion, Cardiomegaly, Fibrosis",NA,NA,
+7,CHEST-XRAY-PNEUMONIA,NA,NA,NA,NA,NA,NA,Pneumonia,NA,NA,
+8,ChestX-ray14,112120,30805,NA,png,Frontal,14,"Atelectasis, Infiltration, Pneumothorax, Effusion, Pneumonia, Cardiomegaly, Nodule Mass, Consolidation, Edema, Emphysema, Fibrosis, Pleural Thickening and Hernia",NA,NA,
+9,ChestX-ray8,108948,32717,NA,png,Frontal,8,"Atelectasis, Infiltration, Pneumothorax, Effusion, Pneumonia, Cardiomegaly, Nodule Mass",NA,NA,
+10,CheXpert,224316,65240,,jpg,"Frontal,lateral",14,"No Finding Enlarged Cardiom. Cardiomegaly Lung Lesion, Lung Opacity Edema Consolidation Pneumonia Atelectasis Pneumothorax Pleural Effusion Pleural Other Fracture, Support Devices",NA,NA,
+11,COVID 19 Xray Image Dataset with Huge Samples,2328,NA,NA,"png, jpeg, jpg",NA,NA,"Covid-19, non-covid-19",NA,NA,
+12,COVID-19 AND NORMAL CHEST X-RAY,326,NA,NA,jpg,NA,NA,Covid-19,NA,NA,
+13,covid-19 chest x-ray detection dataset,200,NA,NA,"png, jpeg, jpg",NA,NA,Covid-19,NA,NA,
+14,COVID-19 Chest X-Ray Image Repository,747,NA,NA,"png, jpeg, jpg, jfif",NA,NA,Covid-19,NA,NA,
+15,COVID-19 Chest X-ray Images,368,NA,NA,NA,NA,NA,Covid-19,NA,NA,
+16,COVID-19 chest XRay images,341,NA,NA,jpg,NA,NA,Covid-19,NA,NA,
+17,COVID-19 image data collection,761,412,58,"png, jpeg",frontal/lateral,20,"COVID-19 (SARSr-CoV-2), SARS (SARSr-CoV-1), MERS-CoV, Varicella, Influenza, Herpes, Streptococcus spp., Klebsiella spp., Escherichia coli, Nocardia spp., Mycoplasma spp., Legionella spp., Unknown, Chlamydophila spp., Staphylococcus spp., Pneumocystis spp., Aspergillosis spp., uknown",mean 55.1,M/F ratio is 230/139,
+18,COVID-19 Image Repository: German Medical School,,243,,nifti,,,Covid-19,,,Decompress to figure out how many images there are
+19,CovID-19 X-ray,200,NA,NA,"jpeg, jpg, png",NA,NA,Covid-19,NA,NA,
+20,Covid-19 Xray images,144,NA,NA,jpeg,NA,NA,Covid-19,NA,NA,
+21,Covid19-Pneumonia-Normal Chest X-Ray Images,5228,NA,NA,png,NA,3,"Covid-19, normal, pneumonia",NA,NA,
+22,COVIDx dataset,30386,17026,NA,"jpeg, jpg, png",NA,4,"no pneumonia/non-COVID-19, pneumonia/COVID-19 pneumonia, COVID-19 positive, COVID-19 negative","<18: 792 (4.7%),  [18, 59]: 11,275 (66.2%), (59, 74]: 3,111 (18.3%), (74, 90]: 702 (4.1%), >90: 7 (0.04%), Unknown: 1,139 (6.7%)","Male: 53.2%, female: 40.1%, uknown: 6.7%",https://arxiv.org/pdf/2206.03671.pdf
+23,CXR Sample for Diagnosis,537,NA,NA,"jpeg, jpg, png",NA,5,"Covid-19, normal, other findings, tuberculosis, viral pneumonia",NA,NA,
+24,Detecting-COVID-19-in-X-ray-images,50,NA,NA,"jpeg, jpg",NA,2,"Covid-19, normal",NA,NA,
+25,India,5856,,,DICOM,,,,,,check up when downloaded
+26,Indiana,8121,3996,NA,DICOM,front/lateral,NA,"Cardiomegaly, Pulmonary atelectasis, Calcified granuloma, Aorta/ tortuous, Lung/hypoinflated, Opacity/lung base, Pleural effusion, Lung/ hyperinflation, Cicatrix/lung, Calcinosis/lung ",NA,NA,
+27,JRST,247,NA,NA,,posteroanterior,NA,,,,check up when downloaded
+28,Lung Diseases X-Rays (Grayscale),8105,NA,NA,JPG,NA,NA,"Covid-19, normal, pneumonia, tuberculosis",NA,NA,
+29,MC,138,NA,NA,PNG,postero-anterior,2,"normal, tuberculocis","mean 40.1(± 18.7) min 4, max 89","54% Female, 46% Male, 1% other",
+30,MIMIC-CXR,227835,65383,NA,DICOM,NA,NA,NA,NA,NA,
+31,NIAID TB dataset,9187,7664,NA,,NA,NA,Tuberculocis,"0-14: 0.2%, 15-44: 45.79% ,45-64: 28%, 65 and above: 6.2%","27% female, 73% male",Using online tool to extract metadata: https://depot.tbportals.niaid.nih.gov/#/cohort-creation?tab=4
+32,RSNA,1257,361,998,DICOM,NA,NA,Covid-19,At least 18 years old,"41% female, 59 % male",
+33,SH,662,NA,NA,PNG,postero-anterior (,NA,"normal, bilateral PTB, Other",mean 35.6(± 14.7) min. 1 max. 89,"31% female, 69% male",
+34,SIRM,340,85,,,,,,,,
+35,TBX - Dataset A,156,NA,NA,"PNG, DICOM",PA,2,"tuberculocis positive, tuberculosis negative",NA,NA,
+36,TBX - Dataset B,150,NA,NA,"PNG, DICOM",PA,2,"tuberculocis positive, tuberculosis negative",NA,NA,
+37,The Stony Brook University COVID-19 Dataset on TCIA,,,,,,,,,,check up when downloaded if possible
+38,VinDR-CXR,18000,NA,NA,DICOM,PA/AP,28,"Aortic enlargement, Atelectasis, Cardiomegaly, Calcification, Clavicle fracture, Consolidation, Edema, Emphysema, Enlarged PA, Interstitial lung disease (ILD), Infiltration, Lung cavity, Lung cyst, Lung opacity, Mediastinal shift, Nodule/Mass, Pulmonary fibrosis, Pneumothorax, Pleural thickening, Pleural effusion, Rib fracture, Other lesion, Lung tumor, Pneumonia, Tuberculosis, Other diseases, Chronic obstructive pulmonary disease (COPD), No finding","training set median: 43.77, test set median 31.80","training set: male 52.21%, female 47.79%, test set: male 55.90%, female 44.10%",
+39,X-ray images three levels,5935,NA,NA,"jpg, jpeg",PA,3,"pneumonia, COVID-19",NA,NA,
+40,X-Ray Lung Image Dataset,6743,NA,NA,"jpg, png, jpeg",NA,NA,"Normal, Inflammatory processes (pneumonia), Higher density (pleural effusion, atelectatic consolidation, hydrothorax, empyema), Lower density (pneumotorax, pneumomediastinum, pneumoperitoneum), Obstructive pulmonary diseases (emphysema, bronchopneumonia, bronchiectasis, embolism), Degenerative infectious diseases (tuberculosis , sarcoidosis, proteinosis, fibrosis), Encapsulated lesions (abscesses, nodules, cysts, tumor masses, metastases), Mediastinal changes (pericarditis, arteriovenous malformations, lymph node enlargement) and Chest changes (atelectasis, malformations, agenesis, hypoplasia)",NA,NA,
+41,Padchest,160861,67625,NA,DICOM,"antero-posterior (AP), postero-anterior (PA) and lateral (L)",193,,"0 to 105 years, with a mean of 58.5 and a median of 62","80,923 images correspond to women and 79,923 to men",
+42,OPENIST,405,NA,NA,jpg,NA,NA,NA,NA,NA,NA
+43,TBX11,11200,NA,NA,PNG,NA,NA,"Healthy, sick & non-TB, active TB, latent TB, active & latent TB, Uncertain TB",NA,NA,
