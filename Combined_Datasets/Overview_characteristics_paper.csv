@@ -1,0 +1,32 @@
+Open access datasets,Country of origin,Year of dataset publication,Number of images,Number of unique patients,View position,Diseases included,Number of images with patient age,Number of images with patient sex,Number of images with patient race/ethnicity
+BIMCV-COVID19+,Spain,2020,56171,24942,"frontal,lateral",Multiple,44824 (79.8%),44824 (79.8%),0
+Chest x-ray disease images,NR,2023,572,NR,NR,NR,0,0,0
+Chest X-Rays - Covid19 Pakistan,Pakistan,2020,527,75,Frontal,Covid-19,0,0,0
+Chest X-Rays Dataset,NR,2018,910,NR,NR,Multiple,0,0,0
+ChestX-ray14,USA,2017,112120,30805,"AP, PA",Multiple,112120 (100%),112120 (100%),0
+CheXpert,USA,2019,224316,65240,"frontal,lateral",Multiple,0,0,0
+COVID 19 Xray Image Dataset with Huge Samples,NR,2020,2328,NR,NR,Covid-19,0,0,0
+COVID-19 AND NORMAL CHEST X-RAY,China,2021,326,NR,NR,Covid-19,0,0,0
+Covid-19 chest x-ray detection dataset,NR,2020,200,NR,NR,Covid-19,0,0,0
+COVID-19 Chest X-Ray Image Repository,NR,2020,747,NR,NR,Covid-19,0,0,0
+COVID-19 Chest X-ray Images,Jordan,2021,368,368,"AP,PA",Covid-19,0,0,0
+COVID-19 image data collection,Multiple,2020,866,449,"frontal, lateral",Covid-19,713 (82.3%),803 (92.7%),0
+COVID-19 Image Repository: German Medical School,Germany,2020,243,71,PA/AP,Covid-19,0,243 (100%),0
+CovID-19 X-ray,NR,2020,200,NR,NR,Covid-19,0,0,0
+Covid-19 Xray images,NR,2020,144,NR,NR,Covid-19,0,0,0
+COVID-19-NY-SBU,USA,2021,13638,1365,AP,Covid-19,0,0,0
+COVIDGR,Spain,2020,852,NR,PA,Covid-19,0,852 (100%),0
+COVIDx dataset,Multiple,2020,30386,17026,NR,Multiple,28350 (93.3%),28350 (93.3%),0
+CXR Sample for Diagnosis,NR,2020,537,NR,AP,Multiple,0,0,0
+Detecting-COVID-19-in-X-ray-images,NR,2020,50,NR,NR,Covid-19,0,0,0
+India,China,2017,5232,NR,AP,Pneumonia,0,0,0
+Indiana,USA,2015,8121,3996,"front, lateral",Multiple,0,0,0
+Japanese Society of Radiological Technology (JSRT),"Japan, USA",2000,247,NR,PA,Nodule,247 (100%),247 (100%),0
+Lung Diseases X-Rays (Grayscale),NR,2023,8105,NR,NR,Multiple,0,0,0
+Montgomery County (MC),USA,2014,138,NR,PA,Tuberculocis,138 (100%),138 (100%),0
+Padchest,Spain,2019,160861,67625,"AP, PA, lateral",Multiple,160855 (100%),160857 (100%),0
+Shenzhen No. 3 (SH),China,2014,662,NR,PA,Tuberculocis,662 (100%),662 (100%),0
+TBX - Dataset A,India,2014,156,NR,PA,Tuberculocis,0,0,0
+TBX - Dataset B,India,2014,150,NR,PA,Tuberculocis,0,0,0
+TBX11,China,2020,11200,NR,NR,Tuberculocis,0,0,0
+X-Ray Lung Image Dataset,NR,2023,6743,NR,NR,Multiple,0,0,0
