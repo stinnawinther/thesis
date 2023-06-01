@@ -1,0 +1,22 @@
+Characteristics and metadata,Description
+Data set name,The name of the dataset
+Access type,"Type of access required for accessing the dataset either open access, regulated access or no access"
+Access details,Description of how to access the dataset and if additional steps are required.
+Link to dataset,Link to where the dataset can be downloaded from (or requested from)
+Citatation,Number of citations of the dataset
+Country of origin,The country or countries from where the data is collected.
+Year of dataset publication,The year the dataset was released.
+Version,"The version of the dataset, if reported."
+"Last updated, year",The last year that the dataset has been updated
+Acquires from other dataset:,If the dataset consists of or acquires from other dataset(s)
+Number of images,Number of images in the dataset
+Number of unique patients,Number of unique patients in the dataset. 
+Number of citations,Number of citations of the dataset based on Google Scholar
+Image format,"The format that the images were released in. e.g., ""png"", ""DICOM"", ""jpg""."
+View position,"The way that the images were projected: Posteroanterior (PA), Anteroposterior (AP), frontal (F), lateral (L)"
+Labels,Number of Image feature labels included in the dataset.
+Diseases included,"Diseases or abnormalities that were included in the datasets e.g., ""pneumonia"", ""Covid-19"""
+Patient age,Number of images containing information on age of the patient.
+Patient sex,Number of images containing information on sex of the patient.
+Patient race/ethnicity,"Number of images containing information on race/ethnicity of the patients e.g., ""Asian"""
+Comments,Additional comments that do not fit into the above attributes.
